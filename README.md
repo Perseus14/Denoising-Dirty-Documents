@@ -1,13 +1,3 @@
-Checkout the proposal document in Docs
+Checkout the proposal document in Doc
 
-Structure of local repo
-
-Denoising Dirty Documents/
-                        Code/
-                              ...
-                        Data/(From kaggle dataset - same structure)
-                              ...
-                        Doc/
-                              ...
-                  
-                  
+Data folder has not been included in the repo. Download it from kaggle here [https://www.kaggle.com/c/denoising-dirty-documents/data]                  
