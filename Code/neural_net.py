@@ -1,7 +1,6 @@
 """
 A simple feed-forward neural network that denoises one pixel at a time
 
-author: Rangel Dokov
 """
 import numpy as np
 import theano
